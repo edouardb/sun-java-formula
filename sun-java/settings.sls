@@ -5,7 +5,7 @@
 
 {%- set default_version_name = 'jdk1.8.0_33' %}
 {%- set default_prefix       = '/usr/share/java' %}
-{%- set default_source_url   = ' http://download.oracle.com/otn-pub/java/jdk/8u33-b05/jdk-8u33-linux-arm-vfp-hflt.tar.gz ' %}
+{%- set default_source_url   = 'http://download.oracle.com/otn-pub/java/jdk/8u33-b05/jdk-8u33-linux-arm-vfp-hflt.tar.gz ' %}
 {%- set default_jce_url      = 'http://download.oracle.com/otn-pub/java/jce/8/jce_policy-8.zip' %}
 {%- set default_dl_opts      = '-b oraclelicense=accept-securebackup-cookie -L' %}
 
